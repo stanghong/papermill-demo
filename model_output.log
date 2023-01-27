@@ -1,0 +1,51 @@
+INFO:root:training set accuracy 0.96
+INFO:root:test set iris2.csv has accuracy0.92
+INFO:root:training set accuracy 0.96
+INFO:root:test set iris3.csv has accuracy0.96
+INFO:root:training set accuracy 0.98
+INFO:root:test set iris2.csv has accuracy0.92
+INFO:root:training set accuracy 0.98
+INFO:root:test set iris3.csv has accuracy0.96
+INFO:root:training set accuracy 0.98
+INFO:root:test set iris2.csv has accuracy0.92
+INFO:root:training set accuracy 0.98
+INFO:root:test set iris2.csv has accuracy0.92
+INFO:root:training set accuracy 0.98
+INFO:root:test set iris3.csv has accuracy0.96
+INFO:root:training set accuracy 0.98
+INFO:root:test set iris2.csv has accuracy0.92
+INFO:root:training set accuracy 0.94
+INFO:root:test set iris2.csv has accuracy0.94
+INFO:root:training set accuracy 0.94
+INFO:root:test set iris3.csv has accuracy0.98
+INFO:root:training set accuracy 0.98
+INFO:root:training set accuracy 0.94
+INFO:root:test set n_neighbors=5 weights=uniformhas accuracy0.94
+INFO:root:training set accuracy 0.94
+INFO:root:test set iris2.csv has accuracy0.94
+INFO:root:training set accuracy 0.94
+INFO:root:test set iris2.csv has accuracy0.94
+INFO:root:training set accuracy 0.92
+INFO:root:test set n_neighbors=3 weights=uniformhas accuracy0.92
+INFO:root:training set accuracy 1.0
+INFO:root:test set n_neighbors=3 weights=distancehas accuracy0.92
+INFO:root:training set accuracy 0.94
+INFO:root:test set n_neighbors=5 weights=uniformhas accuracy0.94
+INFO:root:training set accuracy 1.0
+INFO:root:test set n_neighbors=5 weights=distancehas accuracy0.94
+INFO:root:training set accuracy 0.96
+INFO:root:test set n_neighbors=7 weights=uniformhas accuracy0.94
+INFO:root:training set accuracy 1.0
+INFO:root:test set n_neighbors=7 weights=distancehas accuracy0.94
+INFO:root:training set accuracy 0.92
+INFO:root:test set n_neighbors=3 weights=uniformhas accuracy0.92
+INFO:root:training set accuracy 1.0
+INFO:root:test set n_neighbors=3 weights=distancehas accuracy0.92
+INFO:root:training set accuracy 0.94
+INFO:root:test set n_neighbors=5 weights=uniformhas accuracy0.94
+INFO:root:training set accuracy 1.0
+INFO:root:test set n_neighbors=5 weights=distancehas accuracy0.94
+INFO:root:training set accuracy 0.96
+INFO:root:test set n_neighbors=7 weights=uniformhas accuracy0.94
+INFO:root:training set accuracy 1.0
+INFO:root:test set n_neighbors=7 weights=distancehas accuracy0.94
